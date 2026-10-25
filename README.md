@@ -1,6 +1,6 @@
 # security-skills · 中文安全攻防技能库
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/security-skills/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/security-skills/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > 面向 ZCode 等 AI agent 的原创中文安全技能：护网红蓝双视角 + CNVD/CNNVD 报送细则，由 64+ 份国产实战资料和 620 条 bug bounty writeup 提炼重组，不是搬运。
 >
