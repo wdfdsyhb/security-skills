@@ -1,6 +1,10 @@
-# security-skills · 原创中文安全攻防技能
+# security-skills · 中文安全攻防技能库
 
-> 为 ZCode（等支持 skills 机制的 AI agent）编写的原创中文安全技能。内容源自 64+ 份国产实战资料（京东 JSRC 安全小课堂 93 份、绿盟护网培训 19 份）、620 条 bug bounty writeup 与开源方法论项目的消化提炼——**不是搬运**，是按 agent 技能规范重新组织的结构化知识库。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+
+> 面向 ZCode 等 AI agent 的原创中文安全技能：护网红蓝双视角 + CNVD/CNNVD 报送细则，由 64+ 份国产实战资料和 620 条 bug bounty writeup 提炼重组，不是搬运。
+>
+> English: Original Chinese-language security skills for AI agents — HW/HVV red & blue playbooks and CNVD/CNNVD reporting procedures, distilled from 64+ field sources and 620 writeups, restructured rather than copied.
 
 ## 技能清单
 
@@ -39,3 +43,9 @@ cp -r hw-hunter cnvd-cnnvd ~/.zcode/skills/
 ## 免责声明
 
 仅供授权环境下的安全学习与研究。对未授权系统实施测试在中国属于违法行为（《网络安全法》《刑法》285/286 条）。配套教程书：[security-handbook](https://github.com/wdfdsyhb/security-handbook)（22 章在线版）。
+
+---
+
+## English
+
+Full English documentation: [README_EN.md](README_EN.md)
