@@ -1,6 +1,6 @@
 # security-skills · Chinese Security Skills for AI Agents
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/security-skills/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/security-skills/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > Original Chinese-language security skills for AI agents (ZCode and others): HW/HVV red & blue playbooks and CNVD/CNNVD reporting procedures, distilled from 64+ field sources and 620 bug bounty writeups — restructured, not copied.
 
